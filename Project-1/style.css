@@ -15,7 +15,7 @@
 }
 .content{
     max-width: 900px;
-    margin: 0 auto;
+    margin:  0 auto;
 }
 .top_section{
     margin-top: 100px;
@@ -61,7 +61,7 @@
     text-align: justify;
 }
 .biography_section{
-   margin: 50px auto;
+   margin: 50px auto;    
 }
 .biography_section h3{
     margin-bottom: 20px;
